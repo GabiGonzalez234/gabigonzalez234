@@ -1,36 +1,96 @@
-# ¡Hola, soy Gabi! 👋🏼
+# ¡Hola! Soy Gabi 👋🏼
 
-## Sobre mì
-Mi nombre es Gabriela Gonzalez, soy desarrollador Front End de Buenos Aires, Argentina, enfocada en crear interfaces limpias, rápidas y accesibles. Me encanta programar ❤️
+💻 Desarrolladora Front-End | Diseño y desarrollo de sitios web modernos
 
-Soy autodidacta y realicé cursos de HTML, CSS, JavaScript y Bootstrap. Me adapto con facilidad a nuevos lenguajes de programación, frameworks y librerías.
+🌐 Portfolio: https://dukostudio.netlify.app/
 
-- ✨ **Hobbies:** leer sobre nuevas tecnologias,  desarrolar pequeños proyectos de  programación para probar cosas nuevas, aprender inglés  y realizar actividad fisica.
+## 💙 Sobre mí
 
-- 🎯**Objetivos:** mi objetivo a corto plazo es transformar esa curiosidad en mi primer trabajo como developer; a largo plazo, sumarme a comunidades y proyectos reales no solo para aprender sino también para aportar conocimiento
-  
-  ## 🛠️ Mi Tech Stack
-  HTML, CSS, JSON, Bootstrap, Media Querys, Sweet Alert, Markdow, Animate CSS, Fint Awesome, Github
- 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Claude&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Json](https://img.shields.io/badge/Json-000000?style=for-the-badge&logo=json&logoColor=white)
-![Markdown](https://img.shields.io/badge/markown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![Font Awesome](https://img.shields.io/badge/fontawesome-538DD7?style=for-the-badge&logo=fontawesome&logoColor=black)
+Soy **desarrolladora Front-End** de Buenos Aires, Argentina.
 
-## 🚀 Mis Proyectos
+Disfruto crear aplicaciones web modernas, intuitivas y funcionales, priorizando una buena experiencia de usuario y un código limpio.
 
-- 🍕[Landing Page - Carrito de Compra](https://astonishing-kangaroo-689cc7.netlify.app/) Página con lógica para vender pizzas usando HTML, CSS, JavaScript y JSON.
-
-## ✨ Dónde encontrarme ✨
- 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/tu-usuario)  
+Soy autodidacta y me formé en HTML, CSS, JavaScript y Bootstrap. Actualmente continúo ampliando mis conocimientos mientras desarrollo proyectos reales para clientes y proyectos personales.
 
 ---
 
-¡Gracias por pasar!! 😊
+## 📊 Un poco sobre mí
+
+💼 2 proyectos desarrollados para clientes reales.
+
+🚀 +5 proyectos personales.
+
+🌱 Aprendiendo constantemente nuevas tecnologías.
+
+❤️ Apasionada por el desarrollo web.
+
+---
+
+## 🚀 Actualmente
+
+- 💻 Desarrollando sitios web y sistemas personalizados.
+- 📚 Aprendiendo nuevas tecnologías del ecosistema Front-End.
+- 🌎 Mejorando mi nivel de inglés.
+- 🎯 Buscando oportunidades como Front-End Developer.
+
+---
+
+## 🛠 Tecnologías
+
+HTML • CSS • JavaScript • Bootstrap • JSON • Git • GitHub • Markdown • SweetAlert2 • Font Awesome • Animate.css • Responsive Design
+
+```
+(los badges)
+```
+
+---
+
+## 💼 Proyectos destacados
+
+### 🥩 Sistema de Gestión - La Reina del Corte
+Sistema desarrollado para una carnicería que permite administrar productos, stock, movimientos e historial.
+
+**Tecnologías:** HTML, CSS y JavaScript.
+
+---
+
+### 🌸 MayAmoretti Studio
+Sitio web desarrollado para un emprendimiento real con diseño personalizado y enlaces optimizados para clientes.
+
+---
+
+### 🍕 Landing Page - Carrito de Compra
+Landing page con carrito de compras utilizando JavaScript y JSON.
+
+🔗 Demo:
+(Netlify)
+
+---
+
+### 💈 Barbería
+Landing page moderna enfocada en experiencia de usuario y diseño responsive.
+
+---
+
+### 🎵 DUKO Studio
+Proyecto personal para experimentar con interfaces y diseño web.
+
+---
+
+## 🎯 Objetivos
+
+Seguir creciendo como desarrolladora Front-End, participar en proyectos desafiantes y aportar soluciones que generen valor para las personas y los negocios.
+
+---
+
+## 📫 Contacto
+
+Si tenés una idea, un proyecto o simplemente querés ponerte en contacto conmigo, podés encontrarme en:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-DUKO%20Digital%20Studio-C49A6C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dukostudio.netlify.app/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-GabiGonzalez234-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabiGonzalez234)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Barbara%20Gonzalez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbara-gonzalez-84782b374)
+
+[![Email](https://img.shields.io/badge/Email-barbaragonzalezamoretti%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barbaragonzalezamoretti@gmail.com)
