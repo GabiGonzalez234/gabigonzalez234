@@ -10,7 +10,7 @@ Soy **desarrolladora Front-End** de Buenos Aires, Argentina.
 
 Disfruto crear aplicaciones web modernas, intuitivas y funcionales, priorizando una buena experiencia de usuario y un código limpio.
 
-Soy autodidacta y me formé en HTML, CSS, JavaScript y Bootstrap. Actualmente continúo ampliando mis conocimientos mientras desarrollo proyectos reales para clientes y proyectos personales.
+Tengo formación en el CFP 401 con tres cursos y me formé en HTML, CSS, JavaScript y Bootstrap. Actualmente continúo ampliando mis conocimientos mientras desarrollo proyectos reales para clientes y proyectos personales.
 
 ---
 
