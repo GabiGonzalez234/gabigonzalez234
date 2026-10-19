@@ -1,4 +1,4 @@
-# ¡Hola! Soy Gabi 👋🏼
+# ¡Hola! Soy Barbara Gonzalez 👋🏼
 
 💻 Desarrolladora Front-End | Diseño y desarrollo de sitios web modernos
 
